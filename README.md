@@ -1,5 +1,5 @@
 # Meta_Learning_Papers
-Continuously update recent papers on meta-learning
+Continuously update recent papers on meta-learning, especially tutorials.
 
 ## Tutorials
 ### Year 2018
