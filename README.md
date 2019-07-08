@@ -8,7 +8,7 @@ Continuously update recent papers on meta-learning, especially tutorials.
 ### Year 2019
 * ICML 2019. [Tutorial on 'Meta-Learning: from Few-Shot Learning to Rapid Reinforcement Learning'](https://icml.cc/media/Slides/icml/2019/halla(10-09-15)-10-13-00-4340-meta-learning_.pdf)
 
-* CVPR 2019. [Tutorial on 'Meta-Learning in Computer Vision and NLP'](https://metalearning-cvpr2019.github.io/)
+* CVPR 2019. [Tutorial on 'Meta-Learning in Computer Vision'](https://metalearning-cvpr2019.github.io/)
 
 * WWW 2019. [Tutorial on 'GNN_Meta-Learning for Online Recommendation' (P161-P172)](https://www.dropbox.com/s/g4es7jx1yb91h6w/WWW2019Tutorial_NetworkRepresentationLearning.rar?dl=0)
 
