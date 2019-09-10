@@ -14,6 +14,5 @@ Continuously update recent papers on meta-learning, especially tutorials.
 
 * NAACL 2019. [Tutorial on 'Transfer Learning in NLP'](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit#slide=id.g58bdd596a1_0_0)
 
-* IJCAI 2019. [Tutorial on 'Small Data Challenges in Big Data Era: Unsupervised and Semi-Supervised Methods']
-(http://maple-lab.net/projects/small_data.htm)
+* IJCAI 2019. [Tutorial on 'Small Data Challenges in Big Data Era: Unsupervised and Semi-Supervised Methods'] (http://maple-lab.net/projects/small_data.htm)
 
