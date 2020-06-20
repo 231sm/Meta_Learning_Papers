@@ -16,3 +16,6 @@ Continuously update recent papers on meta-learning, especially tutorials.
 
 * IJCAI 2019. [Tutorial on 'Small Data Challenges in Big Data Era: Unsupervised and Semi-Supervised Methods'](http://maple-lab.net/projects/small_data.htm)
 
+### Year 2020
+* CVPR 2020. [Towards Annotation-Efficient Learning: Few-Shot, Self-Supervised, and Incremental Learning Approaches](https://annotation-efficient-learning.github.io/)
+
